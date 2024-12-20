@@ -1,6 +1,7 @@
 #cs50ai #ai 
 
 #Search
+
 [00:00:00](https://www.youtube.com/watch?v=WbzNRTTrX0g&list=PLhQjrBD2T381PopUTYtMSstgk-hsTGkVm&index=2&t=0s) - Introduction
 [00:00:15](https://www.youtube.com/watch?v=WbzNRTTrX0g&list=PLhQjrBD2T381PopUTYtMSstgk-hsTGkVm&index=2&t=15s) - Artificial Intelligence
 [00:03:14](https://www.youtube.com/watch?v=WbzNRTTrX0g&list=PLhQjrBD2T381PopUTYtMSstgk-hsTGkVm&index=2&t=194s) - Search
