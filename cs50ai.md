@@ -16,8 +16,11 @@
 [01:45:28](https://www.youtube.com/watch?v=WbzNRTTrX0g&list=PLhQjrBD2T381PopUTYtMSstgk-hsTGkVm&index=2&t=6328s) - Depth-Limited Minimax
 
 #Knowledge
+
 [00:00:00](https://www.youtube.com/watch?v=HWQLez87vqM&list=PLhQjrBD2T381PopUTYtMSstgk-hsTGkVm&index=3&t=0s) - Introduction
+
 [00:00:15](https://www.youtube.com/watch?v=HWQLez87vqM&list=PLhQjrBD2T381PopUTYtMSstgk-hsTGkVm&index=3&t=15s) - Knowledge
+
 [00:04:52](https://www.youtube.com/watch?v=HWQLez87vqM&list=PLhQjrBD2T381PopUTYtMSstgk-hsTGkVm&index=3&t=292s) - [Propositional Logic](https://en.wikipedia.org/wiki/Propositional_calculus)
 [00:21:47](https://www.youtube.com/watch?v=HWQLez87vqM&list=PLhQjrBD2T381PopUTYtMSstgk-hsTGkVm&index=3&t=1307s) - [Inference](https://en.wikipedia.org/wiki/Statistical_inference)
 [00:40:06](https://www.youtube.com/watch?v=HWQLez87vqM&list=PLhQjrBD2T381PopUTYtMSstgk-hsTGkVm&index=3&t=2406s) - [Knowledge Engineering](https://en.wikipedia.org/wiki/Knowledge_engineering)
